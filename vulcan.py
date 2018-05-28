@@ -1,1 +1,0 @@
-print("i am vulcan ,hello world")
